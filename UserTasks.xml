@@ -1,4 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <App Name="HP Virtual User Generator">
-  <Tasks />
+  <Tasks>
+    <Task>
+      <type>UserTask</type>
+      <category>Default</category>
+      <description>new task 2</description>
+      <completed>false</completed>
+      <project>WebHttpHtml1</project>
+      <properties>
+        <CreationTime>12/01/2015 10:21:00</CreationTime>
+        <Priority>Normal</Priority>
+        <Author>ribakovs</Author>
+      </properties>
+    </Task>
+  </Tasks>
 </App>
